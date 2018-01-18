@@ -12,7 +12,7 @@ for($cuenta=0;$cuenta<10;$cuenta++)
         }
     }
     if($primo){
-        echo "Hola soy Daniel ".$num."<br/>";
+        echo $num."<br/>"."PRIMO";
     } else
     {
         $cuenta--;
